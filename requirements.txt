@@ -1,2 +1,4 @@
 bqplot
 appmode
+voila==0.1.21
+voila-osscar-template==0.0.2
