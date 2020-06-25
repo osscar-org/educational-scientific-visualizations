@@ -11,7 +11,7 @@ This repository will be enriched over time with more visualizations and more dis
 ## Available visualizations
 ### Mathematics
 
-- [The central limit theorem](https://mybinder.org/v2/gh/giovannipizzi/educational-scientific-visualizations/master?urlpath=%2Fapps%2Fcentral-limit-theorem%2FCentral%20limit%20theorem.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/giovannipizzi/educational-scientific-visualizations/master?urlpath=%2Fapps%2Fcentral-limit-theorem%2FCentral%20limit%20theorem.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/educational-scientific-visualizations/develop?urlpath=%2Fvoila%2Frender%2Fcentral-limit-theorem%2FCentral_limit_theorem.ipynb)
 
 ### Physics
 
@@ -25,6 +25,7 @@ To allow for interactive visualizations, a number of tools are used, in particul
 - [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) for the widgets (dropdowns, sliders, ...)
 - [bqplot](https://github.com/bloomberg/bqplot) for plotting
 - [appmode](https://github.com/oschuett/appmode/) to convert a standard jupyter notebook into a "web app"
+- [voila](https://github.com/voila-dashboards/voila) another popular tool to convert a standard jupyter notebook into a "web app"
 - [mybinder](https://mybinder.org) to open notebooks on the web
 
 ## License
