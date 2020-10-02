@@ -32,3 +32,9 @@ To allow for interactive visualizations, a number of tools are used, in particul
 The code presented here is available under the MIT license.
 
 I would appreciate if you cite back to this repository if you (re)use the content. Also, if you find this repo useful and have suggestions, please let me know (e.g. via the [GitHub issues](https://github.com/giovannipizzi/educational-scientific-visualizations/issues)).
+
+# Acknowlegements
+
+We acknowledge support from the EPFL Open Science Fund via the [OSSCAR](http://www.osscar.org) project.
+
+<img src='http://www.osscar.org/wp-content/uploads/2019/03/OSSCAR-logo.png' width='230'>
